@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JerrySvarc
-- 🌱 I’m currently learning c++ and c.
+- 👋 Hi, I’m @JerrySvarc, an udergrad studying at Charles University in Prague
+- 🌱 I’m a fan of .NET
 
 - 📫 [My website](https://jerrysvarc.xyz)
 
