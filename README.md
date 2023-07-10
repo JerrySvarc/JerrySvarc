@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerrySvarc, an udergrad studying at Charles University in Prague
 - 🌱 I’m a fan of .NET
-- Currently enjoying learning the functional programming paradigm
+- Currently enjoy learning the functional programming paradigm
 
 - 📫 [My website](https://jerrysvarc.xyz)
 
