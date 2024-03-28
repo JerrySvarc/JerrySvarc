@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JerrySvarc, an udergrad studying at Charles University in Prague
+- 👋 Hi, I’m @JerrySvarc, an udergrad student at Charles University in Prague
 - 🌱 I’m a fan of .NET
 - Currently enjoy learning the functional programming paradigm
 
